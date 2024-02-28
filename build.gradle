@@ -23,3 +23,6 @@ test {
 jacocoTestReport {
 	dependsOn test
 }
+
+
+//implementation 'org.apache.maven.plugins:maven-javadoc-plugin:3.6.3'//для джавадок
